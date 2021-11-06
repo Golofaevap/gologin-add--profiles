@@ -1,0 +1,21 @@
+{
+  "name": "gologinrobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "clipboardy": "^2.3.0",
+    "cookiefile": "^1.0.10",
+    "gologin": "^1.0.21",
+    "node-fetch": "^3.0.0",
+    "prompt": "^1.2.0",
+    "puppeteer-core": "^10.4.0",
+    "syncprompt": "^2.0.0"
+  }
+}
